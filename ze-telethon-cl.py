@@ -164,7 +164,7 @@ async def handler(event):
     if data == 'ze':
         await bot.send_message(OWNER_ID, f"""**∘ بوت زد إي لتجميع النقاط واوامر اخرى 
 
-∘ مطور ومبرمج البوت مودي الهيبه - @elhyba
+∘ مطور ومبرمج البوت مودي الهيبه - @yasr_0
 
 ∘ اصدار البوت = 4 Version شبه منقح**""")
 
