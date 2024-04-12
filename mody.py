@@ -4,7 +4,7 @@ import os
 class Mody(object):
     ELHYBA = os.environ.get("ELHYBA", "")
     
-    OWNER = os.environ.get("OWNER", "6581896306")
+    OWNER = os.environ.get("OWNER", "5808770835")
     
     ID_BOT = int(os.environ.get("ID_BOT", ""))
     
@@ -14,6 +14,6 @@ class Mody(object):
     
     API_ID = os.environ.get("API_ID", "25281175")
     
-    API_HASH = os.environ.get("API_HASH", "6d99cb2b60a2c519fc1f99bd19565730")
+    API_HASH = os.environ.get("API_HASH", "8892e6466c6799c70d317446453f23f6")
     
 
